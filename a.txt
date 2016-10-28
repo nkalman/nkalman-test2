@@ -1,1 +1,2 @@
 elso sor -repo1
+masodik sor -repo2
