@@ -1,3 +1,4 @@
 elso sor -repo1
 masodik -by repo2
 masodik sor -repo2
+harmadik sor
