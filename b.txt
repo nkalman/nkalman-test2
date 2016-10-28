@@ -3,3 +3,4 @@ elso sor -repo1
 ujabb sor
 valami elso
 nomika
+nomi
